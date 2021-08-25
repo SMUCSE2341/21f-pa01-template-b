@@ -1,4 +1,4 @@
-name: pa01-sentiment
+name: pa01_sentiment
 
 on: [push]
 
