@@ -3,7 +3,7 @@ name: pa01_sentiment
 on: [push]
 
 env:
-  EXE_NAME: pa01-sentiment
+  EXE_NAME: pa01_sentiment
   ### ***** Students!  Put the name of the input files and output files here.
   ###   List them in the order that they need to appear in Argv param of main.
   ###   Output Files will follow input files
